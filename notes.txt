@@ -1,0 +1,9 @@
+
+
+Disable Secure mode
+
+To inser a mod
+sudo insmod hello_kernel.ko
+
+Remove kernel mod
+sudo rmmod hello_kernel.ko
